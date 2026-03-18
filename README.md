@@ -160,9 +160,13 @@ jeu-questions-reponses/
 
 ## Équipe
 
-| Nom | Rôle | Contact |
-|---|---|---|
-| achraffaouziapp | Développement | https://github.com/achraffaouziapp |
+| Nom |
+
+| ACHRAF FAOUZI |
+| MOHAMED  HAJJI RAFYA |
+| ICHRAQ AIT ADDI |
+| MERYEM MEFRAH |
+| AMINE MEKKI |
 
 ---
 
