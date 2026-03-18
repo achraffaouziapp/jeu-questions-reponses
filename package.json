@@ -1,0 +1,26 @@
+{
+  "name": "jeu-questions-reponses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "start": "npm --prefix backend run start",
+    "build": "npm --prefix frontend run build",
+    "lint": "npm --prefix frontend run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achraffaouziapp/jeu-questions-reponses.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achraffaouziapp/jeu-questions-reponses/issues"
+  },
+  "homepage": "https://github.com/achraffaouziapp/jeu-questions-reponses#readme",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.2.1"
+  }
+}
