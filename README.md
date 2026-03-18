@@ -160,13 +160,13 @@ jeu-questions-reponses/
 
 ## Équipe
 
-| Nom |
-
-| ACHRAF FAOUZI |
-| MOHAMED  HAJJI RAFYA |
-| ICHRAQ AIT ADDI |
-| MERYEM MEFRAH |
-| AMINE MEKKI |
+| Nom | Rôle |
+|---|---|
+| ACHRAF FAOUZI | Lead / Full-stack (architecture, backend + frontend) |
+| MOHAMED HAJJI RAFYA | Backend (API Socket.IO, logique serveur) |
+| ICHRAQ AIT ADDI | Frontend (UI React, pages, UX) |
+| MERYEM MEFRAH | QA & tests (tests backend, validation) |
+| AMINE MEKKI | Intégration & outillage (scripts npm, build/lint) |
 
 ---
 
